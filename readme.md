@@ -8,8 +8,11 @@ Contributions are welcome!
 
 - [General](#general)
   - [Apple](#apple)
+  - [GitHub](#github)
   - [Google](#google)
+  - [Microsoft](#microsoft)
   - [OpenAI](#openai)
+  - [StackExchange](#stackexchange)
 - [Education](#education)
   - [Duolingo](#duolingo)
 - [Shopping](#shopping)
@@ -18,18 +21,24 @@ Contributions are welcome!
   - [eBay](#ebay)
   - [GrubHub](#grubhub)
 - [Social Networks](#social-networks)
+  - [Bumble](#bumble)
   - [Discord](#discord)
   - [Facebook](#facebook)
   - [Google](#google)
   - [Instagram](#instagram)
+  - [Line](#line)
+  - [Pinterest](#pinterest)
   - [Reddit](#reddit)
   - [Snapchat](#snapchat)
   - [Telegram](#telegram)
   - [TikTok](#tiktok)
   - [Tinder](#tinder)
   - [Tumblr](#tumblr)
-  - [X/Twitter](#x/twitter)
+  - [Viber](#viber)
+  - [X/Twitter](#xtwitter)
 - [Media](#media)
+  - [Goodreads](#goodreads)
+  - [Hulu](#hulu)
   - [Netflix](#netflix)
   - [Spotify](#spotify)
 - [Health and Fitness](#health-and-fitness)
@@ -37,6 +46,7 @@ Contributions are welcome!
   - [Samsung Health](#samsung-health)
 - [Travel](#travel)
   - [Airbnb](#airbnb)
+  - [Booking](#booking)
   - [Lyft](#lyft)
   - [Uber](#uber)
   - [Yelp](#yelp)
@@ -47,15 +57,27 @@ Contributions are welcome!
 
 https://privacy.apple.com/ => "Get a copy of your data"
 
+### GitHub
+
+https://github.com/settings/admin
+
 ### Google
 
 Also includes YouTube, Gmail, and other Google-owned products.
 
 https://takeout.google.com/
 
+### Microsoft
+
+https://account.microsoft.com/privacy/export
+
 ### OpenAI
 
 https://chat.openai.com/#settings/DataControls
+
+### StackExchange
+
+https://policies.stackoverflow.co/data-request/
 
 ## Education
 
@@ -83,6 +105,10 @@ https://www.grubhub.com/help/privacy/manage-your-data
 
 ## Social Networks
 
+### Bumble
+
+https://bumble.com/help-search#contact-us
+
 ### Discord
 
 https://discord.com/app => "User Settings" (Cog icon in bottom left) => Privacy & Safety => "Request all of my Data"
@@ -94,6 +120,14 @@ https://www.facebook.com/dyi
 ### Instagram
 
 https://www.instagram.com/download/request/
+
+### Line
+
+https://help.line.me/line/smartphone/?contentId=20007388
+
+### Pinterest
+
+https://pinterest.com/settings/privacy
 
 ### Reddit
 
@@ -120,11 +154,23 @@ https://account.gotinder.com/data
 
 https://www.tumblr.com/settings/blog/ => "Export"
 
+### Viber
+
+https://help.viber.com/hc/en-us/articles/9062953104029-Request-review-and-delete-your-data-on-Rakuten-Viber
+
 ### X/Twitter
 
 https://twitter.com/settings/download_your_data
 
 ## Media
+
+### Goodreads
+
+https://goodreads.com/dsar/user
+
+### Hulu
+
+https://secure.hulu.com/account/privacy
 
 ### Netflix
 
@@ -139,6 +185,10 @@ https://www.spotify.com/us/account/privacy/
 ### Airbnb
 
 https://www.airbnb.com/privacy/manage-your-data
+
+### Booking
+
+https://booking.com/content/dsar.html
 
 ### Lyft
 
