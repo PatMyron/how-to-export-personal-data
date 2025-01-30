@@ -44,6 +44,7 @@ Contributions are welcome!
 - [Health and Fitness](#health-and-fitness)
   - [Fitbit](#fitbit)
   - [Samsung Health](#samsung-health)
+  - [Strava](#strava)
 - [Travel](#travel)
   - [Airbnb](#airbnb)
   - [Booking](#booking)
@@ -217,3 +218,7 @@ Note that for some accounts, Fitbit data may be managed by [Google](#google). Mo
 Mobile App: More options (three dots) => Settings => Download personal data => Download
 
 https://www.samsung.com/us/support/answer/ANS00085104/#ui-id-1
+
+### Strava
+
+https://www.strava.com/athlete/delete_your_account
