@@ -27,6 +27,7 @@ Contributions are welcome!
   - [Google](#google)
   - [Instagram](#instagram)
   - [Line](#line)
+  - [LinkedIn](#linkedin)
   - [Pinterest](#pinterest)
   - [Reddit](#reddit)
   - [Snapchat](#snapchat)
@@ -125,6 +126,10 @@ https://www.instagram.com/download/request/
 ### Line
 
 https://help.line.me/line/smartphone/?contentId=20007388
+
+### LinkedIn
+
+https://www.linkedin.com/mypreferences/d/download-my-data
 
 ### Pinterest
 
