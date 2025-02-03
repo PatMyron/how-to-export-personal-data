@@ -36,6 +36,7 @@ Contributions are welcome!
   - [Tinder](#tinder)
   - [Tumblr](#tumblr)
   - [Viber](#viber)
+  - [WhatsApp](#whatsapp)
   - [X/Twitter](#xtwitter)
 - [Media](#media)
   - [Goodreads](#goodreads)
@@ -163,6 +164,10 @@ https://www.tumblr.com/settings/blog/ => "Export"
 ### Viber
 
 https://help.viber.com/hc/en-us/articles/9062953104029-Request-review-and-delete-your-data-on-Rakuten-Viber
+
+### WhatsApp
+
+https://faq.whatsapp.com/526463418847093/
 
 ### X/Twitter
 
